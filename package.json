@@ -19,5 +19,9 @@
   "license": "MIT License",
   "bugs": {
     "url": "https://github.com/chengyin/linkedin-unsubscribed/issues"
+  },
+  "devDependencies": {
+    "grunt-bookmarklet-thingy": "~0.2.0",
+    "grunt": "~0.4.1"
   }
 }

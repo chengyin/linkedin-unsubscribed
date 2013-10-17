@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-unsubscribed",
+  "version": "0.0.1",
+  "description": "Unsubscribed all LinkedIn emails",
+  "main": "unsubscribe-all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chengyin/linkedin-unsubscribed.git"
+  },
+  "keywords": [
+    "linkedin",
+    "email",
+    "unsubscribe"
+  ],
+  "author": "Chengyin Liu",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/chengyin/linkedin-unsubscribed/issues"
+  }
+}
